@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: career-matcher
+    rootDir: .
+    buildCommand: ""
+    publishDir: "."
